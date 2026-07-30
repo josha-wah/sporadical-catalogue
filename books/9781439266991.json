@@ -9,7 +9,7 @@
       "role": "author"
     }
   ],
-  "publisher": null,
+  "publisher": "C4SS",
   "publication_date": "2010",
   "language": "en",
   "format": "paperback",
@@ -25,5 +25,7 @@
     "openlibrary": null,
     "google_books": null
   },
-  "suppress_import": []
+  "suppress_import": [
+    "long_description"
+  ]
 }
