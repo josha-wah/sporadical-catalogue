@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "isbn_13": "9781439266991",
+  "title": "The Homebrew Industrial Revolution",
+  "subtitle": "A Low-Overhead Manifesto",
+  "contributors": [
+    {
+      "name": "Kevin A. Carson",
+      "role": "author"
+    }
+  ],
+  "publisher": null,
+  "publication_date": "2010",
+  "language": "en",
+  "format": "paperback",
+  "page_count": null,
+  "short_description": null,
+  "long_description": null,
+  "subjects": [],
+  "collections": [
+    "Kevin Carson"
+  ],
+  "cover_url": null,
+  "external_ids": {
+    "openlibrary": null,
+    "google_books": null
+  },
+  "suppress_import": []
+}
