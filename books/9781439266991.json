@@ -26,6 +26,5 @@
     "google_books": null
   },
   "suppress_import": [
-    "long_description"
   ]
 }
